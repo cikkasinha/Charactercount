@@ -1,3 +1,2 @@
 # Charactercount
-Character Count powershell script, can be used to count characters alhapnumeric to special characters.
-Character Count exe can be used to run the script as application, you can double click the exe and it will give prompt to type or copy paste input data, once OK is clicked it will show result as total character count.
+This PowerShell script prompts the user to enter a server name through an input box and then displays the character count of the server name in a message box. It utilizes .NET assemblies to create user-friendly graphical interfaces for input and output, enhancing usability and interaction.
